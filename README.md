@@ -13,7 +13,6 @@ A modern, self-contained productivity dashboard for managing tasks, notes, proje
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![PRs](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)
 ![Deploy](https://img.shields.io/badge/Deployed-GitHub%20Pages-blue?style=for-the-badge)
 
@@ -499,12 +498,6 @@ A: Yes. Once loaded, the app runs entirely from cache. No network requests are m
 - [ ] Cloud sync (Supabase/Firebase)
 - [ ] Multi-language support
 - [ ] Mobile PWA with offline support
-
----
-
-## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
