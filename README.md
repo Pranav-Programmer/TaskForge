@@ -134,14 +134,14 @@ The app is designed around five core modules that cover the full spectrum of kno
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│                     App.tsx                          │
+│                     App.tsx                         │
 │  ┌──────────┐  ┌──────────────────────────────────┐ │
 │  │          │  │                                  │ │
 │  │ Sidebar  │  │         Main Content             │ │
 │  │          │  │  ┌────────────────────────────┐  │ │
-│  │ Dashboard│  │  │  Dashboard / TaskManager /  │  │ │
-│  │ Tasks    │  │  │  Notes / Projects /         │  │ │
-│  │ Notes    │  │  │  DecisionLog / PromptVault  │  │ │
+│  │ Dashboard│  │  │  Dashboard / TaskManager / │  │ │
+│  │ Tasks    │  │  │  Notes / Projects /        │  │ │
+│  │ Notes    │  │  │  DecisionLog / PromptVault │  │ │
 │  │ Projects │  │  └────────────────────────────┘  │ │
 │  │ Decisions│  │                                  │ │
 │  │ Prompts  │  │                                  │ │
@@ -149,7 +149,7 @@ The app is designed around five core modules that cover the full spectrum of kno
 │  └──────────┘                                       │
 │                                                     │
 │  ┌────────────────────────────────────────────────┐ │
-│  │              ToastContainer                     │ │
+│  │              ToastContainer                    │ │
 │  └────────────────────────────────────────────────┘ │
 └─────────────────────────────────────────────────────┘
 ```
